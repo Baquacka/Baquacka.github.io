@@ -1,0 +1,53 @@
+body {
+    background-color: #0E9C7C;
+}
+
+footer {
+    background-color: #5736B9;
+    width: 100%;
+    float: left;
+    text-align: center;
+    height: 40px;
+    font-size: 20px;
+    padding: 10px;
+
+}
+a {
+
+    color: azure;
+}
+ol {
+    font-size: 30px;
+
+}
+ul {
+    list-style-type: disc;
+
+
+}
+main {
+    width: 40%;
+    float: left;
+}
+aside {
+    width: 30%;
+    float: left;
+}
+dt {
+    font-size: 30px;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+div {
+
+    float: left;
+    width: 30%;
+    
+}
+section {
+    height: 160px;
+    width: 100%;
+    float: left;
+}
