@@ -1,0 +1,95 @@
+body {
+    background-color: #0E9C7C;
+    background-image: url(forest2.jpg);
+    
+    background-repeat: repeat;
+        
+}
+
+
+footer {
+    background-color: #5736B9;
+    width: 100%;
+    float: left;
+    text-align: center;
+    height: 40px;
+    font-size: 20px;
+    padding: 10px;
+
+}
+a {
+
+    color: azure;
+}
+ol {
+    font-size: 30px;
+
+}
+ul {
+    list-style-type: disc;
+
+
+}
+ul, li, ol {
+    display: block;
+    
+    
+}
+.Główne { background-color:#379683;
+
+}
+.Mniej {background-color:#5CDB95;
+
+}
+
+.Mało {background-color:#8ee4af;
+
+}
+
+
+
+
+
+
+main {
+    width: 40%;
+    float: left;
+}
+aside {
+    width: 15%;
+    float: left;
+}
+.cos {
+    width: 15%;
+    float: left;
+}
+dt {
+    font-size: 30px;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+div {
+
+    float: left;
+    width: 30%;
+    
+}
+section {
+    height: 160px;
+    width: 100%;
+    float: left;
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
